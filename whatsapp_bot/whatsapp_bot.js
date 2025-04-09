@@ -11,7 +11,7 @@ const CONFIG = {
     PROFANITY_LIMIT: 3,
     SPAM_LIMIT: 5,
     SPAM_TIME_WINDOW: 60000, // 1 minute in milliseconds
-    GEMINI_API_KEY: 'AIzaSyDsACSu8MTEXfegE5XCZV0sJT3m_nbRo60',
+    GEMINI_API_KEY: 'YOUR_API_KEY_HERE',
     MODEL: 'gemini-2.0-flash',
 };
 
