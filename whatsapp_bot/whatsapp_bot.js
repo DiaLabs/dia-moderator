@@ -12,7 +12,7 @@ const CONFIG = {
     SPAM_LIMIT: 5,
     SPAM_TIME_WINDOW: 60000, // 1 minute in milliseconds
     GEMINI_API_KEY: 'YOUR_API_KEY_HERE',
-    MODEL: 'gemini-2.0-flash',
+    MODEL: 'YOUR_GEMINI_MODEL',
 };
 
 // Initialize Gemini API
