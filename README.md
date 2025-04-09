@@ -108,6 +108,9 @@ Pull requests and suggestions welcome! Let's make the internet a nicer place tog
 ---
 
 > Made with ❤️ and a tiny bit of rage at spammy users.
+---
 > Itesh Singh Tomar - 12320263
+---
 > Dhruv Sen - 12318540
+---
 > Aditya Kumar Anupam - 12320585
