@@ -2,7 +2,7 @@
 
 A comprehensive multi-platform content moderation system for Discord, WhatsApp, and Telegram.
 
-/* ![Dia-Moderator]([https://via.placeholder.com/800x400?text=Dia-Moderator](https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6115b0d6a6d3e95b3145ebe9_1_PyM5eBfN3YXjuZzKgyRa_g.png))
+![Dia-Moderator](https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6115b0d6a6d3e95b3145ebe9_1_PyM5eBfN3YXjuZzKgyRa_g.png)
 
 ## Features
 
