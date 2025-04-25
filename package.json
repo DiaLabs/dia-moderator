@@ -8,8 +8,8 @@
     "dev": "nodemon index.js",
     "client": "cd client && npm start",
     "build": "cd client && npm run build",
-    "install-all": "npm install && cd client && npm install",
-    "postinstall": "npm run install-all"
+    "install-client": "cd client && npm install",
+    "postinstall": "npm run install-client"
   },
   "dependencies": {
     "@google/genai": "^0.9.0",
