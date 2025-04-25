@@ -1,0 +1,36 @@
+{
+  "name": "dia-moderator",
+  "version": "1.0.0",
+  "description": "A comprehensive multi-platform content moderation system for Discord, WhatsApp, and Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd client && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^0.9.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "path-to-regexp": "^6.2.0",
+    "puppeteer": "^24.6.1",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
