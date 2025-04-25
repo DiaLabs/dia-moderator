@@ -276,3 +276,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [whatsapp-web.js](https://wwebjs.dev/) for WhatsApp integration
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) for Telegram integration
 - [Google Gemini](https://ai.google.dev/) for AI capabilities
+
+---
+
+> **Made with ❤️ by [petrioteer](https://github.com/petrioteer)**
+
+---
