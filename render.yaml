@@ -1,0 +1,15 @@
+# Render Configuration
+
+Build Command: npm install
+Start Command: npm start
+Environment: Node
+
+# Auto-deploy from this repository
+# Set environment variables in Render dashboard:
+# - DISCORD_TOKEN
+# - TELEGRAM_TOKEN  
+# - GEMINI_API_KEY
+# - PORT=3001
+
+# Service Type: Web Service
+# Instance Type: Free
